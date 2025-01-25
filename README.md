@@ -1,6 +1,12 @@
 <div align="center">
 <p>
+   This project is a Computer Vision tool that utilizes YOLOv5 to detect tumors and hemorhages in CT-scans
+
+
+
+   
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
+   
    <img width="850" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
 </p>
 
